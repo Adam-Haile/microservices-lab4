@@ -60,6 +60,7 @@ def index():
       font-size: 16px;
       transition: border-color 0.15s ease, box-shadow 0.15s ease;
       background: var(--card);
+      color: var(--text);
     }
     input[type="text"]::placeholder {
       color: #6b7280;
